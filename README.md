@@ -1,3 +1,1 @@
-"# beginner-projects" 
-"# beginner-projects" 
-"# beginner-projects" 
+A collection of my beginner projects
